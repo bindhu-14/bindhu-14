@@ -1,3 +1,4 @@
+![logo](https://github.com/binscodingbay/binscodingbay/blob/main/giphy.gif)
 - 👋 Hi, I’m @bindhu-14
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
