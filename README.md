@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **bindhu.kb@sysfore.com**
 
-- ⚡ Fun fact **When you sing a little song, all your dreams come true.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
